@@ -18,9 +18,9 @@ A web-based music player that mimics Spotify's interface and functionality. This
 ## Technologies Used 
 
 - **HTML5**: For the structure of the web player.
-- **CSS3**: Styling with focus on responsiveness and interactivity.
+- **CSS3**: Styling with a focus on responsiveness and interactivity.
 - **JavaScript (ES6)**: For dynamic functionalities such as fetching songs, managing playback, and UI updates.
-- **Fetch API**: For fetching songs and album metadata.
+- **Fetch API**: Used For fetching songs and album metadata.
 - 
 ## Project Structure
 
